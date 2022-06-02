@@ -1,6 +1,6 @@
 {
   "name": "@ton.js/ethjs-unit",
-  "version": "0.1.7-beta.1",
+  "version": "0.1.7-beta.2",
   "description": "A simple module for handling Ethereum units (e.g. 'ether', 'wei', etc...)",
   "main": "lib/index.js",
   "files": [
